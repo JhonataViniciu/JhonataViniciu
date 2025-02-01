@@ -10,5 +10,6 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img align="center" alt="COBOL" src="https://img.shields.io/badge/COBOL-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img align="center" alt="PYTHON" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-</div>
+</div><br/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataViniciu&layout=compact)
