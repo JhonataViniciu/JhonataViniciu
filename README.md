@@ -20,11 +20,11 @@
 
 ###
 
-<h2 align="left">Linguagens De Programação!</h2>
+<h2 align="center">Ferramentas de Programação</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
@@ -43,6 +43,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
+
+###
+
+<h2 align="center">Principais Ferramentas</h2>
+
+###
+
+<p align="center">COBOL - Python - C# - SQLServer</p>
 
 ###
 
