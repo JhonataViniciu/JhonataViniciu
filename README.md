@@ -52,7 +52,7 @@
 
 ###
 
-<p align="center">COBOL - Java - C# - SQLServer</p>
+<p align="center">COBOL - C# - SQLServer</p>
 
 ###
 
